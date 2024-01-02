@@ -1,6 +1,7 @@
 # A comprehensive history of web development
 
-## Highlighting some of the most major releases and events throughout the history of web development
+### Highlighting some of the most major releases and events throughout the history of web development
+### Each event is appended with a number indicating impact (5 being the major)
 
 ## 1987
 
@@ -8,19 +9,19 @@
 
 ## 1991 
 
-- HTML created
+- HTML created [5]
 
 ## 1995 
 
-- Javascript created
+- Javascript created [5]
 
 ## 1996
 
-- CSS created
+- CSS created [5]
 
 ## 1998 
 
-- XML created
+- XML created [5]
 - CSS2 created
 
 ## 1999
@@ -28,22 +29,22 @@
 - HTML 4.01 released to fix HTML
 
 ## 2000
-- XHTML created to fix HTML
+- XHTML created to fix HTML [5]
 
 ## 2002
-- JSON created to try to fix XML
+- JSON created to try to fix XML [5]
 
 ## 2004
 - Web 2.0 invented to fix Web 1.0
 - WhatWG established to fix HTML, CSS, XML, JS
 
-
 ## 2005
+- Firebug released to allow developers to edit elements directly on the page (https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/) [5]
 - AJAX invented to fix ActiveXObject
 - Prototype/Dojo invented to fix JS
 
 ## 2006
-- Mootools, jQuery invented to fix Prototype, Dojo, Mootools & JS
+- Mootools, jQuery invented to fix Prototype, Dojo, Mootools & JS [5]
 - YUI released to fix HTML/CSS/JS
 - JSON adoption aims to fix XML
 - SASS released to fix CSS
@@ -64,7 +65,7 @@
 - LESS released to fix SASS
 
 ## 2010
-- AngularJS/BackboneJS invented to fix jQuery
+- AngularJS/BackboneJS invented to fix jQuery [5]
 - Responsive design created to fix unresponsive design
 
 ## 2011
@@ -77,10 +78,10 @@
 - Ionic created to fix Responsive design
 
 ## 2013
-- React invented to fix AngularJS/BackboneJS
+- React invented to fix AngularJS/BackboneJS [5]
 
 ## 2014
-- Vue invented to fix React & Angular
+- Vue invented to fix React & Angular [5]
 - HTTPS adoption embraced to fix HTTP
 
 ## 2015
