@@ -57,6 +57,7 @@
 ## 2008
 - HTML5 released to fix HTML4
 - 960 released to fix Blueprint/CSS
+- Stackoverflow launched [5]
 
 ## 2009
 - Flexbox released to try to fix floats
